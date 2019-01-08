@@ -17,6 +17,9 @@
   "license": "UNLICENSED",
   "bugs": "https://github.com/tailify/eslint-config-legacy/issues",
   "homepage": "https://github.com/tailify/eslint-config-legacy#readme",
+  "peerDependencies": {
+    "eslint": "^5.9.0"
+  },
   "engines": {
     "node": ">=8"
   },
