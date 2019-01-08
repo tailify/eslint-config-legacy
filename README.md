@@ -1,0 +1,1 @@
+# @tailify/eslint-config-legacy
