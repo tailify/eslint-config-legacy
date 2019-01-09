@@ -26,6 +26,7 @@
     "eslint-plugin-prettier": "3.0.1"
   },
   "devDependencies": {
+    "@tailify/prettier-config": "^1.0.0",
     "eslint": "^5.9.0",
     "jest": "^23.6.0",
     "prettier": "^1.15.0"
