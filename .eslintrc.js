@@ -1,5 +1,7 @@
 'use strict';
 
+const { configs: jestConfig } = require('eslint-plugin-jest');
+
 module.exports = {
   root: true,
   env: {
@@ -11,4 +13,13 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   plugins: ['node'],
+  overrides: [
+    {
+      files: ['**/__{mocks,tests}__/**', '**/*.{mock,test}.js'],
+      ...jestConfig.recommended,
+      env: {
+        jest: true,
+      },
+    },
+  ],
 };
