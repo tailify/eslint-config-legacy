@@ -1,5 +1,6 @@
 # @tailify/eslint-config-legacy
 
+[![Build status][build-status-image]][build-status-url]
 [![Greenkeeper][greenkeeper-image]][greenkeeper-url]
 [![Version][version-image]][version-url]
 
@@ -22,6 +23,9 @@ module.exports = {
 ```
 
 *Note: We can omit the `/eslint-config` suffix since it is automatically assumed by ESLint.*
+
+[build-status-image]: https://travis-ci.com/tailify/eslint-config-legacy.svg?branch=master
+[build-status-url]: https://travis-ci.com/tailify/eslint-config-legacy
 
 [greenkeeper-image]: https://badges.greenkeeper.io/tailify/eslint-config-legacy.svg
 [greenkeeper-url]: https://greenkeeper.io
