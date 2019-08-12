@@ -4,7 +4,7 @@
 [![Greenkeeper][greenkeeper-image]][greenkeeper-url]
 [![Version][version-image]][version-url]
 
-> Tailify's very own opinionated ESLint configuration for ES5 projects.
+> Tailify's very own opinionated ESLint configuration for legacy projects.
 
 ## Installation
 

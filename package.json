@@ -1,7 +1,7 @@
 {
   "name": "@tailify/eslint-config-legacy",
   "version": "6.0.0",
-  "description": "Tailify's very own opinionated ESLint configuration for ES5 projects",
+  "description": "Tailify's very own opinionated ESLint configuration for legacy projects",
   "main": "lib/index.js",
   "files": [
     "lib"
