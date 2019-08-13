@@ -5,7 +5,7 @@ module.exports = {
   overrides: [
     {
       extends: ['plugin:jest/recommended', 'plugin:jest/style'],
-      files: ['**/*.test.js'],
+      files: ['*.test.js'],
     },
   ],
   root: true,
