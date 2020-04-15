@@ -29,11 +29,11 @@
     "eslint": "^6.0.0",
     "eslint-plugin-jest": "^23.0.0",
     "jest": "^25.3.0",
-    "prettier": "^2.0.0"
+    "prettier": "^2.0.1"
   },
   "peerDependencies": {
     "eslint": "^6.0.0",
-    "prettier": "^2.0.0"
+    "prettier": "^2.0.1"
   },
   "engines": {
     "node": ">=10.20.1"
